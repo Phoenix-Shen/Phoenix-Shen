@@ -22,3 +22,6 @@ My name is PhoenixShen, a postgraduate student in Shandong University and my res
 - 📫 How to reach me: shikunshen@163.com
 - ⚡ I’m interested in Machine Learning, Computer Vision, RL and NLP and I'm also passionate about PC hardware.
 
+![](https://github-readme-stats.vercel.app/api?username=Phoenix-Shen&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-Shen)](https://github.com/Phoenix-Shen/Phoenix-Shen)
