@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 My name is PhoenixShen, a postgraduate student in Shandong University and my research includes RL and Distributed Computing
 
+- 💬 Now I'm working in the Institute of Intelligent Computing(IIC)
 - 🔭 I’m currently working on *Reinforcement learning*(RL) and *distributed computing*
 - 🌱 I’m currently learning RL algorithms and some algorithms in IOT and distributed systems
 - 📫 How to reach me: shikunshen@163.com
-- ⚡ I’m interested in Machine Learning, Computer Vision, RL and NLP and I'm also passionate about hardware.
+- ⚡ I’m interested in Machine Learning, Computer Vision, RL and NLP and I'm also passionate about PC hardware.
+
