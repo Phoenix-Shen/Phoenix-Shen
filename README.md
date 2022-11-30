@@ -21,7 +21,7 @@ My name is PhoenixShen, a postgraduate student in Shandong University and my res
 - 🌱 I’m currently learning RL algorithms and some algorithms in IOT and distributed systems
 - 📫 How to reach me: shikunshen@163.com
 - ⚡ I’m interested in Machine Learning, Computer Vision, RL and NLP and I'm also passionate about PC hardware.
-
+- 💬 You can ask me questions about: classic machine learning (svm,decision tree,kmeans...), computer vision(image classification,image translation,semantic segmentation...), reinforcement learning(qlearning,policy gradient...) and PyTorch framework.
 ![](https://github-readme-stats.vercel.app/api?username=Phoenix-Shen&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix-Shen)](https://github.com/Phoenix-Shen/Phoenix-Shen)
