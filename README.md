@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Shikunshen, a postgraduate student in School of Computer Science and Technology, Shandong University and my research includes RL, Data Science and Distributed Computing
-- 👯 I graduated from Whuhan University, School of Computer Science and Technology.
+- 👯 I graduated from Whuhan University, School of Computer.
 - 💬 Now I'm working in the Institute of Intelligent Computing(IIC).
 - 🔭 I’m currently working on *Reinforcement learning*(RL) , *distributed computing* and *Federated Learning*.
 - 🌱 I’m currently learning RL algorithms and some algorithms in IOT and distributed systems.
