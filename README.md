@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 My name is Shikunshen, a postgraduate student in School of Computer Science and Technology, Shandong University and my research includes RL, Data Science and Distributed Computing
 - 👯 I graduated from Whuhan University, School of Computer.
 - 💬 Now I'm working in the Institute of Intelligent Computing(IIC).
-- 🔭 ~I’m currently working on *Reinforcement learning*(RL) , *distributed computing* and *Federated Learning*.~
 - 🔭 I’m currently working on *Large Language Models(LLMs)*(Especially Mixture of Experts (MoE), inference/fine-tuning acceleration), *distributed computing* and *Federated Learning*.
-- ~🌱 I’m currently learning RL algorithms and some algorithms in IOT and distributed systems.~
 - 🌱 I’m currently learning the advances of LLMs and some algorithms in accelerating Transformers (like flash-attention, PowerInfer, deepspeed zero-optimization).
 - 📫 How to reach me: shikunshen@163.com.
 - ⚡ I’m interested in Machine Learning, Computer Vision, RL, FL and NLP and I'm also passionate about PC hardware.
